@@ -1,1 +1,0 @@
-Testing file fetch from snowflake notebooks. 
