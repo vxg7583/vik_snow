@@ -1,4 +1,5 @@
 import subprocess
+import pandas as pd
 def run_script(script_name):
     try:
         subprocess.run(["python", script_name], check=True)
